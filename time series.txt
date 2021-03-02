@@ -1,0 +1,10 @@
+time series
+https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/
+
+https://www.kaggle.com/jagangupta/time-series-basics-exploring-traditional-ts
+
+https://www.kaggle.com/thebrownviking20/everything-you-can-do-with-a-time-series
+
+https://www.kaggle.com/elenapetrova/time-series-analysis-and-forecasts-with-prophet
+
+https://www.kaggle.com/khoongweihao/covid-19-novel-coronavirus-eda-forecasting-cases

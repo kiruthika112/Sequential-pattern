@@ -1,0 +1,3 @@
+https://www.kaggle.com/bulentsiyah/data-science-and-visualization-exercise
+
+https://www.kaggle.com/benhamner/python-data-visualizations

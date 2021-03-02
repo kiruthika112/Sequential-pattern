@@ -1,0 +1,16 @@
+https://www.codementor.io/@wajihaurooj/python-seaborn-tutorial-data-visualization-using-seaborn-wpj9qydr2
+
+
+https://towardsdatascience.com/make-your-data-talk-13072f84eeac
+
+https://www.c-sharpcorner.com/article/a-complete-python-seaborn-tutorial/
+df = df.fillna(df.mean())
+
+https://www.kaggle.com/subbuvolvosekar/want-to-eat-in-bangalore-plz-visit-bangalore-p
+
+
+https://www.kaggle.com/fabiendaniel/customer-segmentation
+
+https://www.kaggle.com/leexiongan/customer-segmentation-and-recommendation-engine
+
+https://www.kaggle.com/miljan/customer-segmentation

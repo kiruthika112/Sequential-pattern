@@ -1,0 +1,45 @@
+
+FARPAM (FAst Robust PAttern Mining) and 
+FARPAMp (FARPAM with prior information about prior uncertainty, allowing faster searching).
+
+https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0200-9
+
+
+time series forecasting
+Smoothing Moving Average
+Seasonal Naive Method
+Drift Method
+ARIMA
+
+
+Algorithms
+Commonly used algorithms include:
+
+GSP algorithm
+Sequential PAttern Discovery using Equivalence classes (SPADE)
+FreeSpan
+PrefixSpan
+
+
+https://www.kaggle.com/sajidcse/market-basket-analysis#ECLAT-ALGORITHM
+
+
+Association Rules Metrics
+
+support = how popular an itemset is, as measured by the proportion of transactions in which an itemset appears.
+confidence (A -> B) = support (A -> B)/support(A). It is the probability of seeing the consequent in a transaction given that it also contains antecedent. The confidence of 1 (maximal) for a rule A->B means that the consequent and antecedent always occur together.
+lift (A -> B) = confidence (A -> B)/support(B). To measure how much more often the antecedent and consequent of a rule A->B occur together than we would expect if they were statistically independent. If A and B are independent, the lift score will be exactly 1.
+leverage (A -> B = support (A -> B) - support(A) x support (B). The difference between the observed frequency of A and B appearing together and the frequency that would be expected if A and B were independent. Leverage value of 0 indicates independence.
+conviction (A -> B) = (1-support(B))/(1-confidence(A -> B)). High conviction value means that the consequent is highly depending on the antecedent. If items are independent, the conviction is 1.
+
+
+https://www.kaggle.com/klospascal/eda-market-basket-analysis/comments#412613
+
+
+
+
+
+
+
+
+

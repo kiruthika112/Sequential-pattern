@@ -1,0 +1,21 @@
+https://www.kaggle.com/thiagopanini/predicting-restaurant-s-rate-in-bengaluru
+
+https://www.kaggle.com/ash316/eda-to-prediction-dietanic
+
+https://seaborn.pydata.org/generated/seaborn.catplot.html
+https://www.kaggle.com/pavanraj159/telecom-customer-churn-prediction
+
+https://www.kaggle.com/juminator/comprehensive-eda-and-statistical-testing
+https://www.quackit.com/mysql/tutorial/mysql_import_data.cfm
+
+excellent coding and visulization
+https://www.kaggle.com/mchirico/dataset-walk-through-911
+https://www.geeksforgeeks.org/data-visualization-different-charts-python/
+
+https://github.com/WillKoehrsen/feature-selector/blob/master/Feature%20Selector%20Usage.ipynb
+learning
+https://scikit-learn.org/stable/modules/ensemble.html
+https://pandas.pydata.org/pandas-docs/stable/reference/groupby.html
+
+
+https://www.kaggle.com/residentmario/welcome-to-data-visualization

@@ -1,0 +1,20 @@
+Discovered valuable insights from customer calls data, by implementing traditional machine learning models which can help business better understand their customers’ needs and expectations, lead to improve brand loyalty and create a positive reputation.
+Handled the business problems, to identify the most repeative occuring failure patterns of several products that exhibited meaningful source to the business.
+Have re-trained the existing ML model with various techniques such as hyperparameter tuning, Ensemble methods, and feature engineering to raise and improve the performance level.
+To enhance more powerful model, a precise new training data is injected weekly/monthly that help algorithms to recognize the certain patterns or series of outcomes for accurate results.
+
+Created impactful visualization and engaging reports that provides easy way to present massive information with data visualization tools and technologies to make data driven conclusions.
+ Extending the existing insights to understand the significance of data which allows stakeholders and decision makers to identify new trends and patterns easily.
+Used matplotlib, seaborn for  creating interactive graphical 2D, 3D formats by summarizing and presenting huge amount of data effectively.
+Used Structured Query Language(SQL) to fetch the data's from different data source and implemented different join queries for retrieving the important data for analyses.
+
+Completed internal training in workplace to improve the performance and specific job skills to long-term professional development
+Undertaken Google cloud webinar externally for self development of the Core infrastructure of machine learning models and application development.
+Undertaken several  internal ilearn assessment which made better understand the norms.
+Created a generic reusable asset model by implementing cloud platform on our data and enriched valuable insights from it.
+
+Worked on flat file development from Quality team and product training dataset from Human resources management, and got appreciations from both the teams.
+Have not received any escalations till date.
+Delivered the projects and reports ontime and ensure it was satisfied by the customers.
+Adhered to the TVS core values to take right decision and also sometimes makes things clear.
+

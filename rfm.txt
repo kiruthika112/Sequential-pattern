@@ -1,0 +1,14 @@
+
+removing tvse-sto 
+tvse -mbo
+tvs electonics
+normalization
+feature interval numeric values
+visulization -4 to5
+uni, bi, multi
+resolving the inconsitencies
+cube aggregration
+parametric and non-parametric/greeks
+normal disturbtion
+label encoder and dummy varaiable
+
